@@ -22,6 +22,6 @@ data = [int(sys.argv[1])];
 
 data = np.array([data], "float32");
 
-result = loaded_model.predict(data);
+result = loaded_model.predict(data)[0][0];
 
 print(int(result.round()));
