@@ -6,11 +6,11 @@ Este proyecto es una aplicación en Python que permite simular el comportamiento
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu_usuario/tu_proyecto.git
+   git clone https://github.com/filer245/ia-doors.git
    ```
 2. Accede al directorio del proyecto:
    ```bash
-   cd tu_proyecto
+   cd ia-doors
    ```
 3. Asegúrate de tener Python instalado (versión 3.x recomendada).
 4. Instala las dependencias necesarias:
